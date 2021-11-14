@@ -1,9 +1,9 @@
 # GEPCOMM-2021
-### This is a repository of sources, ideas, etc for GEPCOMM group 5.
+## This is a repository of sources, ideas, etc for GEPCOMM group 5.
 
 
-**SDG: Education**  
-**Topic: Mathematics education in the Philippines**
+### **SDG: Education**  
+### **Topic: Mathematics education in the Philippines**
 
 #### Members:  
 1. Vincent Burce
