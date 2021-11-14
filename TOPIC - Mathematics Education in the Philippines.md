@@ -9,5 +9,4 @@ Terms that must be defined:
 3. Increasing class interactivity:
 4. Discouraging rote memorization:
 
-Effective Ways to Teach Mathematics:
-[[Norway or sumshit]]
+Source Synthesis Template: [[Source Template]]
