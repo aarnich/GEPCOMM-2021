@@ -8,3 +8,6 @@ Terms that must be defined:
 2. Contextualizing abstract mathematical concepts:
 3. Increasing class interactivity:
 4. Discouraging rote memorization:
+
+Effective Ways to Teach Mathematics:
+[[Norway or sumshit]]
