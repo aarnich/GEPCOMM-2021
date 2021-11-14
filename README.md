@@ -2,5 +2,5 @@
 ### This is a repository of sources, ideas, etc for GEPCOMM group 5.
 
 
-**SDG: Education**
+**SDG: Education**  
 **Topic: Mathematics education in the Philippines**
