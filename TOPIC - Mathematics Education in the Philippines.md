@@ -6,7 +6,8 @@ The [[Method of teaching]] [[Mathematics]] in most Philippine classrooms is inef
 Must be answered:
 1.  How is mathematics taught in the Philippines?
 2.  What solutions exist in order to [[Effectively Teach Mathematics]]
-	1.  
+	1.  Math contests?
+	2.  
 3. Contextualizing abstract mathematical concepts:
 4. Increasing class interactivity:
 5. Discouraging rote memorization:
