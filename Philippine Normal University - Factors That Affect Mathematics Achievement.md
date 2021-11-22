@@ -13,7 +13,7 @@ The poor performance of students is caused by four main factors:
 
 
 Summary/Synthesis
-1.  Teachers have a major effect on the achievement of students. 
+1.  Teachers have a major effect on the achievement of students. Individual factors such as self-directed learning, artihmetic ability, attitude towards mathematics, motivation and concentration are also of key import. Excellent students have high levels of willingness to solve mathematical problems compared to their weaker counterparts. 
 2. Key Idea
 3. Key Idea
 4. Etc
