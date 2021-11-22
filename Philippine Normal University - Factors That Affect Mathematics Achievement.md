@@ -5,6 +5,13 @@
  
 
 #### MAIN IDEA:
+The poor performance of students is caused by four main factors: 
+- the individual
+- the teacher
+- classroom management
+- evaluation
+
+
 Summary/Synthesis
 1. Key Idea
 2. Key Idea
