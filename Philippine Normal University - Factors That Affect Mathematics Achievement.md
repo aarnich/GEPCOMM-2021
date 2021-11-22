@@ -13,7 +13,7 @@ The poor performance of students is caused by four main factors:
 
 
 Summary/Synthesis
-1. Key Idea
+1.  Teachers have a major effect on the achievement of students. 
 2. Key Idea
 3. Key Idea
 4. Etc
