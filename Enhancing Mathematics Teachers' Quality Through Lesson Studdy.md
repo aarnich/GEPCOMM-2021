@@ -4,7 +4,7 @@
 ##### Year of publication: 2016
 
 
-##### MAIN IDEA: Lesson Studiss should be used to enhance math teachers
+##### MAIN IDEA: Lesson Studies should be used to enhance math teachers
 Summary/Synthesis
 1. Key Idea
 2. Key Idea
