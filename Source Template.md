@@ -1,10 +1,10 @@
-# Topic Title
-## Original Source:
-#### Authors:
-#### Year of publication:
+#### Topic Title
+###### Original Source:
+###### Authors:
+###### Year of publication:
 
 
-## MAIN IDEA:
+#### MAIN IDEA:
 Summary/Synthesis
 1. Key Idea
 2. Key Idea
