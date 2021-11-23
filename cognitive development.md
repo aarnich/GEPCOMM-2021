@@ -1,1 +1,3 @@
-The instruction of Mathematics has, throughout history, been linked to the idea that students, with the use of skills developed in Mathematical education, may be able to learn and adapt irrespective of 
+The instruction of Mathematics has, throughout history, been linked to the idea that students, with the use of skills developed in class, may be able to learn and adapt in order to solve problems. (Tripathi, n.d.) posits that all Mathematics educators must constantly question themselves if the Mathematics they teach lead to the enhancement of students' cognitive abilities. 
+
+Tripathi, P. N. (n.d.). _Problem Solving In Mathematics: A Tool for Cognitive Development_.
